@@ -1,0 +1,39 @@
+:root {
+  /* Colors */
+  --color-bg: #faf7f2;
+  --color-text-primary: #1e1e1c;
+  --color-text-secondary: #5c5c56;
+  --color-accent-orange: #c26144;
+  --color-border: #eadece;
+  --color-border-dark: #1e1e1c;
+  --color-border-form: #997b53;
+  --color-white: #ffffff;
+  --color-btn-cta: #eadece;
+  --color-shadow-card: rgba(30, 30, 28, 0.04);
+
+  /* Fonts */
+  --font-heading: 'Fraunces', serif;
+  --font-body: 'Schibsted Grotesk', sans-serif;
+
+  /* Card Gradients - Husqvarna */
+  --gradient-husq-vitpilen: linear-gradient(180deg, rgba(0, 0, 0, 0.11) 0%, rgba(255, 255, 255, 0.11) 100%);
+  --gradient-husq-nuda: linear-gradient(180deg, rgba(255, 0, 0, 0.11) 0%, rgba(250, 247, 242, 0.11) 100%);
+  --gradient-husq-701: linear-gradient(180deg, rgba(255, 247, 0, 0.11) 0%, rgba(255, 255, 255, 0.11) 100%);
+  --gradient-husq-norden: linear-gradient(180deg, rgba(87, 113, 51, 0.32) 0%, rgba(255, 255, 255, 0.32) 100%);
+  --gradient-husq-tc300: linear-gradient(180deg, rgba(255, 159, 75, 0.36) 0%, rgba(255, 255, 255, 0.36) 100%);
+  --gradient-husq-svartpilen: linear-gradient(180deg, rgba(95, 92, 86, 0.54) 0%, rgba(255, 255, 255, 0.54) 100%);
+
+  /* Card Gradients - BMW */
+  --gradient-bmw-m1000xr: linear-gradient(180deg, rgba(11, 98, 0, 0.11) 0%, rgba(255, 255, 255, 0.11) 100%);
+  --gradient-bmw-visionk18: linear-gradient(180deg, rgba(0, 132, 255, 0.11) 0%, rgba(250, 247, 242, 0.11) 100%);
+  --gradient-bmw-m1000r: linear-gradient(180deg, rgba(255, 0, 0, 0.11) 0%, rgba(255, 255, 255, 0.11) 100%);
+  --gradient-bmw-r1300gs: linear-gradient(180deg, rgba(0, 21, 255, 0.32) 0%, rgba(255, 255, 255, 0.32) 100%);
+  --gradient-bmw-g450x: linear-gradient(180deg, rgba(255, 159, 75, 0.36) 0%, rgba(255, 255, 255, 0.36) 100%);
+  --gradient-bmw-f450rr: linear-gradient(180deg, rgba(190, 190, 190, 0.54) 0%, rgba(255, 255, 255, 0.54) 100%);
+
+  /* Radii */
+  --radius-card: 16px;
+  --radius-btn: 8px;
+  --radius-pill: 40px;
+  --radius-form: 15px;
+}
